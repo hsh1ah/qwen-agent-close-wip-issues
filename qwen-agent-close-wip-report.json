@@ -1,0 +1,41 @@
+{
+  "QwenLM/Qwen-Agent": {
+    "closed_wip_issue_count": 2,
+    "issues": [
+      {
+        "number": 216,
+        "title": "开源的qwen模型是否支持function call",
+        "author": "robin-xl",
+        "state": "closed",
+        "labels": ["Work in Progress"],
+        "comments": 10,
+        "created": "2024-06-24",
+        "updated": "2026-05-03",
+        "url": "https://github.com/QwenLM/Qwen-Agent/issues/216"
+      },
+      {
+        "number": 102,
+        "title": "qwen-agent支持连接数据库，对表格进行数据分析么？",
+        "author": "cheng18175030250",
+        "state": "closed",
+        "labels": ["Work in Progress"],
+        "assignee": "tuhahaha",
+        "comments": 11,
+        "created": "2024-03-27",
+        "updated": "2026-05-03",
+        "url": "https://github.com/QwenLM/Qwen-Agent/issues/102"
+      }
+    ],
+    "analysis_metadata": {
+      "total_closed_wip_issues": 2,
+      "total_comments_on_wip_issues": 21,
+      "unique_contributors": ["robin-xl", "cheng18175030250", "tuhahaha"],
+      "oldest_wip_issue": "2024-03-27",
+      "newest_wip_issue": "2024-06-24",
+      "date_of_analysis": "2025-07-16",
+      "repository_owner": "QwenLM",
+      "repository_name": "Qwen-Agent",
+      "analysis_repository": "https://github.com/hsh1ah/qwen-agent-close-wip-issues"
+    }
+  }
+}
